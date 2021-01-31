@@ -9,6 +9,7 @@ verify_ssl = true
 flask = "*"
 beautifulsoup4 = "*"
 requests = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
